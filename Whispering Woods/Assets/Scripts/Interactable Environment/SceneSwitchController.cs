@@ -20,6 +20,6 @@ public class SceneSwitchController: MonoBehaviour
     private void OnMouseDown()
     {
         Debug.Log($"You clicked the object named {gameObject.name}");
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(4);
     }
 }

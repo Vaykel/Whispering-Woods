@@ -4,18 +4,6 @@ using UnityEngine;
 
 public class MainManager : MonoBehaviour
 {
-<<<<<<< Updated upstream
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-=======
     public static MainManager Instance;
     private void Awake()
     {
@@ -27,6 +15,5 @@ public class MainManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
->>>>>>> Stashed changes
     }
 }

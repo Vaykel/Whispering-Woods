@@ -5,7 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: fc4212a37c5c1e641a265b055b3f78b3
+  - enabled: 1
+    path: Assets/Scenes/Meadow.unity
+    guid: 87f4f57ef317126458987d78db8c9dc6
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: 05c2c60e001f715428ab38357288b10e
+  - enabled: 1
+    path: Assets/Scenes/Log.unity
+    guid: 57282efb50b50414bb7b1b1857565763
+  - enabled: 1
+    path: Assets/Scenes/Graveyard.unity
+    guid: a3eb5e72802bb6a4bbf1c83878c198a9
+  - enabled: 1
+    path: Assets/Scenes/Greenhouse.unity
+    guid: 042c13512a43f1e408c246864624674d
+  - enabled: 1
+    path: Assets/Scenes/Clouds.unity
+    guid: 48c775d0ab6af0b4ca2bf7f18ca0ab45
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 5fbffaf77c70dac43a0364858a76b7dc
+  - enabled: 1
+    path: Assets/Scenes/Cabin.unity
+    guid: 373654819338b874e898605a18b4ae3a
   m_configObjects: {}
